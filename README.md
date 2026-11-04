@@ -21,5 +21,5 @@ An autonomous robot that navigates a multi-room maze, finds a flame, and extingu
 State machine: `[SEARCH] → [NAVIGATE] → [FLAME_DETECTED] → [EXTINGUISH] → [RETURN/DONE]`, with a `[RECOVERY]` state for retry on faults.
 
 ## My role
-- [e.g. Wrote the navigation and state machine firmware]
-- [e.g. Designed PCB revisions 2 and 3]
+- Wrote the navigation and state machine firmware
+- Designed PCB revisions 2 and 3
