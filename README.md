@@ -1,6 +1,9 @@
 # Fire Extinguishing Robot
 
 An autonomous robot that navigates a multi-room maze, finds a flame, and extinguishes it. It runs on an ATmega328P with custom-designed PCBs. Built as a team of 2
+
+![Robot photo](unnamed.jpg)
+
 **Result:** located and extinguished the target in **9 of 10 trial runs**.
 
 ## What it does
